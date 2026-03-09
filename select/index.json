@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハウ・ディープ・イズ・ジ・オーシャン",
+  "base_artist": "Diana Krall",
+  "createdAt": "2026-03-09T14:36:18.274128Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How Deep Is the Ocean (How High Is the Sky)",
+      "artist": "Diana Krall",
+      "has_synced": false,
+      "path": "select/pl_01_How_Deep_Is_the_Ocean_(How_High_Is_the_Sky)_Diana_Krall.txt"
+    }
+  ]
+}
