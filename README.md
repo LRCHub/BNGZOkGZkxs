@@ -1,0 +1,22 @@
+# Diana Krall – ハウ・ディープ・イズ・ジ・オーシャン
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+How much do I love you?
+I'll tell you no lie
+How deep is the ocean?
+How high is the sky?
+How many times in a day
+Do I think of you?
+How many roses are
+Sprinkled with dew?
+How far would I travel
+Just to be where you are?
+How far is the journey
+From here to a star?
+And if I ever lost you
+How much would I cry?
+How deep is the ocean?
+How high is the sky?
+```
